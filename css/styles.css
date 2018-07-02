@@ -9,3 +9,8 @@ body{
   color: #00ffe0;
 
 }
+li{
+display: inline;
+padding: 10px;
+
+}
