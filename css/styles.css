@@ -5,12 +5,28 @@
   margin: 0 auto;
 }
 body{
+
   background-color: #370081;
   color: #00ffe0;
 
 }
 li{
-display: inline;
-padding: 10px;
 
+display: inline;
+font-family: 'Eater', cursive;
+padding: 18px;
+
+}
+
+h1{
+  font-family: 'Eater', cursive;
+}
+
+.nav-item{
+  display: inline;
+  padding: 10px;
+  display: inline;
+}
+.nav-link{
+  text-decoration: none;
 }
