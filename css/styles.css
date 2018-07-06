@@ -11,19 +11,6 @@ body{
 
 }
 
-@keyframes goodbye {
-from {opacity: 0;}
-to {opacity: 1;}
-}
-@-webkit-keyframes goodbye {
-from {opacity: 0;}
-to {opacity: 1;}
-}
-
-.goodbye{
-animation-name: goodbye
-
-}
 li{
 
 display: inline;
@@ -39,7 +26,6 @@ h1{
 .nav-item{
   display: inline;
   padding: 10px;
-  display: inline;s
 }
 .nav-link{
   text-decoration: none;
