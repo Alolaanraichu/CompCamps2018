@@ -1,4 +1,4 @@
-.center{
+  .center{
 
   text-align: center;
   display: block;
@@ -6,11 +6,13 @@
 }
 body{
 
-  background-color: #370081;
+
   color: #00ffe0;
-
+background: linear-gradient( #22008c , #1f003b);
 }
-
+#grad {
+    background: linear-gradient( #22008c , #1f003b);
+}
 li{
 
 display: inline;
